@@ -1,2 +1,2 @@
 # Objection-Detection
-Object detection using OpenCV and python
+Object detection using Haar Cascade and OpenCV
